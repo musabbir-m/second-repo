@@ -6,4 +6,6 @@ p{
     font-size: em;
     font-weight: bold;
     font-size: large;
+    background-color: aliceblue;
+    border: solid;
 }
